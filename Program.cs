@@ -44,9 +44,13 @@
         {
             Console.WriteLine("Two Lines are equal");
         }
+        else if(lenone>lenTwo)
+        {
+            Console.WriteLine("Line one is greater than Line Two");
+        }
         else
         {
-            Console.WriteLine("Two Lines are not equal");
+            Console.WriteLine("Line one is less than Line Two");
         }
     }   
 }
