@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.AssemblyInfo.cs
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\bin\Debug\net6.0\Line Computation.exe
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\bin\Debug\net6.0\Line Computation.deps.json
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\bin\Debug\net6.0\Line Computation.runtimeconfig.json
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\bin\Debug\net6.0\Line Computation.dll
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\bin\Debug\net6.0\Line Computation.pdb
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.dll
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\refint\Line Computation.dll
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.pdb
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\Line Computation.genruntimeconfig.cache
+C:\Users\Dell\Desktop\BridgeLabz\Line Computation\obj\Debug\net6.0\ref\Line Computation.dll
